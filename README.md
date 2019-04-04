@@ -1,0 +1,2 @@
+# dictionary
+some simply dictionary
