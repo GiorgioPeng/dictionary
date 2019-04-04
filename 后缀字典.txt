@@ -1,0 +1,78 @@
+php::$DATA
+php.
+php. .
+php5::$DATA
+php5.
+php5. .
+php4::$DATA
+php4.
+php4. .
+php3::$DATA
+php3.
+php3. .
+php2::$DATA
+php2.
+php2. .
+html::$DATA
+html.
+html. .
+htm::$DATA
+htm.
+htm. .
+phtml::$DATA
+phtml.
+phtml. .
+pht::$DATA
+pht.
+pht. .
+jsp::$DATA
+jsp.
+jsp. .
+jspa::$DATA
+jspa.
+jspa. .
+jspx::$DATA
+jspx.
+jspx. .
+jsw::$DATA
+jsw.
+jsw. .
+jsv::$DATA
+jsv.
+jsv. .
+jspf::$DATA
+jspf.
+jspf. .
+jtml::$DATA
+jtml.
+jtml. .
+asp::$DATA
+asp.
+asp. .
+aspx::$DATA
+aspx.
+aspx. .
+asa::$DATA
+asa.
+asa. .
+asax::$DATA
+asax.
+asax. .
+ascx::$DATA
+ascx.
+ascx. .
+ashx::$DATA
+ashx.
+ashx. .
+asmx::$DATA
+asmx.
+asmx. .
+cer::$DATA
+cer.
+cer. .
+swf::$DATA
+swf.
+swf. .
+htaccess::$DATA
+htaccess.
+htaccess. .
